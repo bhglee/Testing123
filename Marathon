@@ -1,6 +1,8 @@
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
+//this is code from an assignment taken from MIT's OpenCourseware Project's class on Java.
+//I don't think it was a formal course and I'm pretty sure I've yet to do any assignment the way they expected me to because they didn't post the lectures to help make sense of the lecture notes.
 
 public class Marathon {
 
