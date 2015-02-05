@@ -16,7 +16,8 @@ public class InvestmentCalculator{
     
         System.out.print("What is your name? ");
         userName = myScanner.nextLine(); //The original skeleton file contained a class called SavitchIn that wasn't imported into the file.
-                                        //I used Scanner because I'm more familiar with that class.
+                                        //I couldn't find the SavitchIn class description on the Oracle Java 7 API
+                                        //I used Scanner instead because I'm more familiar with that class.
         
         System.out.print("What is your initial investment? $");
         initDeposit = myScanner.nextInt();
