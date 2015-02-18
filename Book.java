@@ -11,7 +11,7 @@ public class Book {
 	}
 	
 	public Book (String bookTitle) {
-	
+		//Implement this method
 	}
 	
 	// Marks the book as rented
