@@ -26,6 +26,12 @@ public class LibraryBook
 		return title;
 	}
 	
+	public int getGenre ()
+	{
+		return genre;
+	}
+	
+	
    /**
      * Constructor: construct book with given author, title and genre.  Set
      * genre to whatever is passed in, even if it is not one of the five genres
