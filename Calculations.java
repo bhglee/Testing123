@@ -29,6 +29,26 @@ Scanner numInput = new Scanner(System.in);
   
   System.out.println("The product of " + num1 + " and " + num2 + " is " + answer);
   
+  if (num1 > num2) {
+		  
+		  int answerDiff = num1 - num2;
+		  int answerDivide = num1 / num2;
+		  
+		  System.out.println("The difference between " + num1 + " and " + num2 + " is " + answerDiff);
+		  System.out.println("The quotient of " + num1 + " divided by " + num2 + " is " + answerDivide);
+	  
+	  }else{
+		
+		  int answerDiff = num2 - num1;
+		  int answerDivide = num2 / num1;
+		  
+		  System.out.println("The difference between " + num2 + " and " + num1 + " is " + answerDiff);
+		  System.out.println("The quotient of " + num2 + " divided by " + num1 + " is " + answerDivide);
+		  
+		 
+	  }
+	  
+  
   }
   }
   
