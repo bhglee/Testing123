@@ -12,6 +12,6 @@ public int addingNums (int a, int b)
   
 public static void main(String [] args);
 
-  int answer = num1 + num 2
+  int answer = num1 + num2
   System.out.println("The sum of " + num1 + " and " + num2 + " is " + result)
 
